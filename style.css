@@ -1,4 +1,19 @@
-body 
+#presentacion {
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.proyecto
 {
-    background-color: red;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#proyecto-1{
+    background-image: url('google.png');
+}
+#proyecto-2{
+    background-image: url('restaurante.png');
 }
