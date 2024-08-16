@@ -1,3 +1,4 @@
+
 #presentacion {
   height: 90vh;
   display: flex;
@@ -16,13 +17,16 @@
   background-position: center;
 }
 #proyecto-1 {
-  background-image: url("google.png");
+  background-image: url("assets/clon-google.png");
 }
 #proyecto-2 {
   background-image: url("restaurante.png");
 }
 #proyecto-3 {
-  background-image: url("restaurante.png");
+  background-image: url("assets/dc.png");
+}
+#proyecto-4 {
+  background-image: url("assets/portafolio.png");
 }
 
 .text-shadow-1 {
