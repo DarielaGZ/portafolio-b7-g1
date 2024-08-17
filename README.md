@@ -9,10 +9,9 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 Proyecto desplegado https://nimble-capybara-81eb76.netlify.app/
 
 ## Secciones de mi sitio
-![Presentación](assets/readme/1.jpeg)
-![Habilidades](assets/readme/2.jpeg)
-![Proyectos](assets/readme/3.jpeg)
-![Testimonios](assets/readme/4.jpeg)
+![Presentación](assets/readme/header.png)
+![Secciones](assets/readme/secciones.png)
+![Footer](assets/readme/footer.png)
 ## Tecnologías
 
 * HTML
