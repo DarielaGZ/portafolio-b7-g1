@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso del framework de diseño UI, Boot
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-Proyecto desplegado https://nimble-capybara-81eb76.netlify.app/
+Proyecto desplegado https://dariela-garcia.netlify.app/
 
 ## Secciones de mi sitio
 ![Presentación](assets/readme/header.png)
